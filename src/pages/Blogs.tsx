@@ -55,9 +55,10 @@ const Blogs = () => {
               BLOG
             </h1>
             <p className="text-xl text-portfolio-gray max-w-4xl mx-auto leading-relaxed">
-              Selamat datang di blog saya, tempat saya berbagi wawasan,
-              pengalaman, dan pemikiran tentang desain UI/UX, tren teknologi,
-              dan proses kreatif di balik pengembangan produk digital.
+              Selamat datang di blog saya, Blog ini untuk membagikan pemikiran
+              serta pembelajaran saya sebagai UI/UX Designer dan Junior Web
+              Developer, yang banyak terinspirasi dari berbagai sumber di bidang
+              desain, teknologi, dan pengembangan digital.
             </p>
           </div>
 

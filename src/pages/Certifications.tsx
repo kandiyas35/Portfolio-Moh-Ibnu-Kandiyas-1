@@ -61,9 +61,11 @@ const Certifications = () => {
               SERTIFIKAT
             </h1>
             <p className="text-xl text-portfolio-gray max-w-4xl mx-auto leading-relaxed">
-              Jelajahi bagian sertifikasi saya untuk melihat tonggak
-              pengembangan profesional yang telah meningkatkan keahlian saya
-              dalam desain UI/UX dan pengembangan produk digital.
+              Jelajahi tonggak-tonggak pengembangan profesional saya yang
+              mencerminkan komitmen dalam memperkuat keahlian di bidang desain
+              UI/UX dan pengembangan produk digital. Sertifikast-sertifikast ini
+              menjadi bukti nyata dari dedikasi saya dalam terus belajar dan
+              tumbuh sebagai Junior Web Developer.
             </p>
           </div>
 
@@ -125,10 +127,11 @@ const Certifications = () => {
                 Perjalanan Belajar Berkelanjutan
               </h2>
               <p className="text-portfolio-gray mb-8 max-w-3xl mx-auto leading-relaxed">
-                Saya percaya pada pembelajaran seumur hidup dan selalu mengikuti
-                perkembangan tren dan teknologi terbaru dalam desain UI/UX.
-                Sertifikasi ini mewakili komitmen saya terhadap pertumbuhan
-                profesional dan memberikan keunggulan dalam setiap proyek.
+                Saya berkomitmen pada pembelajaran terkini dan terus mengikuti
+                tren desain UI/UX serta teknologi web terbaru. Sertifikat ini
+                mencerminkan dedikasi saya sebagai UI/UX Designer dan Junior Web
+                Developer dalam menghadirkan solusi digital yang inovatif dan
+                berorientasi pengguna.
               </p>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
                 <div className="text-center">

@@ -81,20 +81,21 @@ const Index = () => {
       <Header currentPage="home" />
 
       {/* Hero Section */}
-      <section className="pt-28 pb-20 bg-gradient-hero min-h-[80vh]">
+      <section className="min-h-screen pt-28 pb-20 bg-gradient-hero flex items-center">
         <div className="container mx-auto px-6">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="text-center lg:text-left">
-              <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold text-portfolio-white mb-6 leading-relaxed">
-                <span className="bg-gradient-to-r from-portfolio-orange via-orange-400 to-yellow-400 bg-clip-text text-transparent font-bold underline decoration-dotted underline-offset-4">
-                  Desainer UI/UX
-                </span>{" "}
-                &{" "}
-                <span className="bg-gradient-to-r from-yellow-400 via-orange-400 to-portfolio-orange bg-clip-text text-transparent font-bold underline decoration-dotted underline-offset-4">
+              <h1 className="text-left text-3xl md:text-4xl lg:text-5xl font-bold leading-snug px-4 md:px-8 max-w-4xl">
+                <span className="bg-gradient-to-r from-yellow-400 via-orange-400 to-portfolio-orange bg-clip-text text-transparent underline decoration-dotted underline-offset-4">
                   Junior Web Developer
                 </span>{" "}
-                yang bersemangat menciptakan produk digital yang inovatif dan
-                menyenangkan.
+                &{" "}
+                <span className="bg-gradient-to-r from-portfolio-orange via-orange-400 to-yellow-400 bg-clip-text text-transparent underline decoration-dotted underline-offset-4">
+                  UI/UX Designer
+                </span>{" "}
+                yang menciptakan solusi digital yang menarik,
+                <br />
+                dan fungsional.
               </h1>
 
               <p className="text-xl text-portfolio-gray mb-8 leading-relaxed">

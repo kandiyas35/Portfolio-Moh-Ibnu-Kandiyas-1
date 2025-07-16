@@ -16,8 +16,8 @@ const About = () => {
       subtitle: "Wakil Kepala Departemen Luar Negeri",
       duration: "Januari 2025 - Sekarang",
       responsibilities: [
-        "Menginisiasi program kerja Job Fair untuk menjembatani kebutuhan mahasiswa terhadap informasi karier dan peluang kerja, yang sebelumnya belum pernah diadakan di Fakultas Teknik UNESA. Program ini dilaksanakan melalui kolaborasi antardepartemen dan kerja sama strategis dengan Career Center UNESA (CCU). Kegiatan berhasil menghadirkan lebih dari 40 perusahaan dan menarik 2.000+ pengunjung, membuka akses langsung ke peluang kerja, magang dan rekrutmen bagi mahasiswa.",
-        "Mengawal dan mengkoordinir suksesnya Studi Banding BEM FT UNESA dengan BEM FT UM sebagai Komite Pengarah dari posisi Wakil Ketua Jurusan, guna mendorong terciptanya forum pertukaran gagasan antarorganisasi kemahasiswaan teknik. Berkontribusi dalam perencanaan konsep, koordinasi lintas divisi, serta pengawasan teknis pelaksanaan acara. Kegiatan ini berhasil melibatkan 100+ peserta dan menjadi sarana efektif dalam pengembangan kapasitas organisasi serta penguatan relasi kelembagaan antar BEM Fakultas Teknik.",
+        "Menginisiasi program kerja Job Fair untuk menjembatani kebutuhan mahasiswa terhadap informasi karier dan peluang kerja, yang sebelumnya belum pernah diadakan di Fakultas Teknik UNESA. Program ini dilaksanakan melalui kolaborasi antar departemen dan kerja sama strategis dengan Career Center UNESA (CCU). Kegiatan berhasil menghadirkan lebih dari 40 perusahaan dan menarik 2.000+ pengunjung, membuka akses langsung ke peluang kerja, magang dan rekrutmen bagi mahasiswa.",
+        "Mengarahkan dan bertanggung jawab atas program kerja studi banding BEM FT UNESA ke BEM FT UM sebagai Wakil Kepala Departemen; sukses melibatkan 150+ peserta dan memperkuat relasi antar BEM Fakultas Teknik.",
       ],
     },
     {
@@ -54,9 +54,10 @@ const About = () => {
               TENTANG SAYA
             </h1>
             <p className="text-xl text-portfolio-gray max-w-4xl mx-auto leading-relaxed">
-              Seorang Desainer UI/UX yang bersemangat tentang Pengalaman
-              Pengguna, Antarmuka Pengguna, dan desain menawan yang menciptakan
-              hubungan bermakna antara pengguna dan produk digital.
+              Seorang Junior Web Developer & Desainer UI/UX yang bersemangat
+              dalam menciptakan pengalaman pengguna, antarmuka menawan, dan
+              solusi digital yang membangun hubungan bermakna antara pengguna
+              dan produk.
             </p>
           </div>
 
@@ -71,26 +72,27 @@ const About = () => {
                 />
               </div>
             </div>
-            <div className="space-y-6">
+            <div className="space-y-6 text-justify">
               <h2 className="text-2xl lg:text-3xl font-bold text-portfolio-white">
-                Seorang Desainer UI/UX yang bersemangat dan berdedikasi untuk
-                mewujudkan ide-ide inovatif
+                UI/UX Designer & Junior Web Developer, menciptakan solusi
+                digital yang inovatif dan terintegrasi.
               </h2>
               <p className="text-portfolio-gray leading-relaxed">
                 Dengan fondasi yang kuat dalam prinsip-prinsip desain yang
-                berpusat pada pengguna, saya spesialisasi dalam menciptakan
-                pengalaman digital yang tidak hanya menarik secara visual tetapi
-                juga sangat fungsional dan mudah diakses. Pendekatan saya
-                menggabungkan kreativitas dengan pemikiran analitis untuk
-                memecahkan tantangan desain yang kompleks.
+                berpusat pada pengguna, saya mengkhususkan diri dalam
+                menciptakan pengalaman digital yang tidak hanya menarik secara
+                visual, tetapi juga sangat fungsional, responsif, dan mudah
+                diakses.
               </p>
               <p className="text-portfolio-gray leading-relaxed">
-                Saya percaya bahwa desain yang hebat tidak terlihat – desain
-                tersebut harus terasa alami dan intuitif bagi pengguna sekaligus
-                mencapai tujuan bisnis. Melalui pembelajaran berkelanjutan dan
-                mengikuti perkembangan tren dan teknologi desain terkini, saya
-                berupaya menghadirkan solusi digital luar biasa yang memberikan
-                dampak positif.
+                Saya memadukan kreativitas visual, kemampuan teknis, dan
+                pemikiran analitis untuk menyelesaikan tantangan desain dan
+                pengembangan front-end. Bagi saya, desain yang baik tidak hanya
+                enak dilihat, tetapi juga terasa alami, intuitif, dan selaras
+                dengan tujuan pengguna. Melalui pembelajaran berkelanjutan dan
+                adaptasi terhadap tren teknologi terkini, saya berkomitmen
+                menciptakan solusi digital yang bernilai, berdampak, dan siap
+                diterapkan.
               </p>
             </div>
           </div>
