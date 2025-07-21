@@ -9,6 +9,7 @@ import project3 from "@/assets/project-3.jpg";
 import project4 from "@/assets/project-4.jpg";
 import project5 from "@/assets/project-5.jpg";
 import project20 from "@/assets/project-20.jpg";
+import project21 from "@/assets/project-21.jpg";
 
 const Projects = () => {
   const projects = [
@@ -37,19 +38,19 @@ const Projects = () => {
       isExternal: true,
     },
     {
-      title: '🏠 UI/UX Website "Omah Impian"',
+      title: "🏠 Website Informasi Masjid Agung Darussalam Mojokerto",
       description:
-        "Desain UI/UX modern untuk website properti dengan fokus pada kemudahan navigasi dan pengalaman pengguna.",
+        "Website ini merupakan platform informasi resmi Masjid Desa Gemekan, Kecamatan Sooko, Kabupaten Mojokerto. Situs ini dirancang sebagai media penyebaran informasi keseharian masjid kepada masyarakat. Masih Dalam Proses Pengembangan (On Progres)",
       imageUrl: project4,
       projectUrl:
-        "https://www.figma.com/proto/r4HSI76YJJAYt8W1XO9yRf/Untitled?node-id=0-1&t=EIIOPAvPPLx7k39t-1",
+        "https://github.com/kandiyas35/Website-Masjid-Agung-Darussalam",
       isExternal: true,
     },
     {
       title: '📱 Mobile UI/UX App "One UNESA"',
       description:
-        "Desain aplikasi mobile untuk komunitas UNESA dengan antarmuka yang intuitif dan engagement yang tinggi.",
-      imageUrl: project1,
+        "Desain aplikasi mobile untuk Mahasiswa kwirausahaan yang kebingungan memperjual-belikan produk mereka.",
+      imageUrl: project5,
       projectUrl:
         "https://www.figma.com/proto/7NBj52f5WRfuJI6JgagLOp/NCast---Podcast-App--Community-?page-id=&node-id=2184-199&starting-point-node-id=2099%3A94&t=5Vm7MHIaFtaVeG7b-1",
       isExternal: true,
@@ -60,6 +61,15 @@ const Projects = () => {
         "Proyek berbasis Python dan Computer Vision untuk mengklasifikasikan tingkat kematangan tomat menggunakan citra digital tanpa antarmuka pengguna grafis.",
       imageUrl: project20, // atau ganti jika ada gambar khusus
       projectUrl: "https://github.com/kandiyas35/Deteksi-Kematangan-Tomat",
+      isExternal: true,
+    },
+    {
+      title: '📱 Mobile UI/UX App "SPARRING"',
+      description:
+        "Desain aplikasi mobile untuk Mahasiswa yang kesusahan untuk mencari teman untuk bermain olahraga.",
+      imageUrl: project21,
+      projectUrl:
+        "https://www.figma.com/proto/GQlFNBOKHWkQq1hWxMFxlQ/Sparring-Project?page-id=0%3A1&node-id=27-2066&viewport=294%2C107%2C0.68&t=TPBcHTc3nSYfXHrZ-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=22%3A921",
       isExternal: true,
     },
   ];

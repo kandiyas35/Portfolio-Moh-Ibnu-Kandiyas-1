@@ -39,18 +39,18 @@ const Index = () => {
       isExternal: true,
     },
     {
-      title: '🏠 UI/UX Website "Omah Impian"',
+      title: "🏠 Website Informasi Masjid Agung Darussalam Mojokerto",
       description:
-        "Desain UI/UX modern untuk website properti dengan fokus pada kemudahan navigasi dan pengalaman pengguna.",
+        "Website ini merupakan platform informasi resmi Masjid Desa Gemekan, Kecamatan Sooko, Kabupaten Mojokerto. Situs ini dirancang sebagai media penyebaran informasi keseharian masjid kepada masyarakat. Masih Dalam Proses Pengembangan (On Progres)",
       imageUrl: project4,
       projectUrl:
-        "https://www.figma.com/proto/r4HSI76YJJAYt8W1XO9yRf/Untitled?node-id=0-1&t=EIIOPAvPPLx7k39t-1",
+        "https://github.com/kandiyas35/Website-Masjid-Agung-Darussalam",
       isExternal: true,
     },
     {
       title: '📱 Mobile UI/UX App "One UNESA"',
       description:
-        "Desain aplikasi mobile untuk komunitas UNESA dengan antarmuka yang intuitif dan engagement yang tinggi.",
+        "Desain aplikasi mobile untuk Mahasiswa kwirausahaan yang kebingungan memperjual-belikan produk mereka.",
       imageUrl: project5,
       projectUrl:
         "https://www.figma.com/proto/7NBj52f5WRfuJI6JgagLOp/NCast---Podcast-App--Community-?page-id=&node-id=2184-199&starting-point-node-id=2099%3A94&t=5Vm7MHIaFtaVeG7b-1",
@@ -60,7 +60,7 @@ const Index = () => {
       title: "🍅 Deteksi Kematangan Tomat",
       description:
         "Proyek berbasis Python dan Computer Vision untuk mengklasifikasikan tingkat kematangan tomat menggunakan citra digital tanpa antarmuka pengguna grafis.",
-      imageUrl: project20, // atau ganti jika ada gambar khusus
+      imageUrl: project20,
       projectUrl: "https://github.com/kandiyas35/Deteksi-Kematangan-Tomat",
       isExternal: true,
     },
@@ -69,6 +69,7 @@ const Index = () => {
   const toolsAndSkills = [
     { name: "Visual Studio Code", icon: "💻", type: "Tool" },
     { name: "Figma", icon: "🎨", type: "Tool" },
+    { name: "Canva", icon: "🖌️", type: "Tool" },
     { name: "HTML", icon: "🌐", type: "Skill" },
     { name: "CSS", icon: "💅", type: "Skill" },
     { name: "JavaScript", icon: "📜", type: "Skill" },
@@ -158,6 +159,16 @@ const Index = () => {
           </div>
         </div>
       </section>
+
+      {/* 🔗 Link Tambahan di atas Tools & Skill */}
+      <div className="text-center mb-12">
+        <a
+          href="/projects"
+          className="text-portfolio-orange underline underline-offset-4 hover:text-yellow-400 transition-colors text-base"
+        >
+          🔗 Lihat semua proyek saya
+        </a>
+      </div>
 
       {/* Skills Section */}
       <section className="py-16 bg-portfolio-navy-light">
